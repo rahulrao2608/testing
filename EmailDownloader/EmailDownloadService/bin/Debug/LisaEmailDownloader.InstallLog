@@ -1,0 +1,681 @@
+﻿Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Rolling back assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service EmailDownloader...
+Creating EventLog source EmailDownloader in log Application...
+Rolling back assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source EmailDownloader.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service EmailDownloader...
+Creating EventLog source EmailDownloader in log Application...
+Rolling back assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source EmailDownloader.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service EmailDownloader...
+Creating EventLog source EmailDownloader in log Application...
+Rolling back assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source EmailDownloader.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Rolling back assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service EmailDownloader...
+Service EmailDownloader has been successfully installed.
+Creating EventLog source EmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source EmailDownloader.
+Service EmailDownloader is being removed from the system...
+Service EmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Creating EventLog source LisaEmailDownloader in log Application...
+Rolling back assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source LisaEmailDownloader.
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Warning: The source LisaEmailDownloader is not registered on the local machine.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Creating EventLog source LisaEmailDownloader in log Application...
+Rolling back assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source LisaEmailDownloader.
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Warning: The source LisaEmailDownloader is not registered on the local machine.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Creating EventLog source LisaEmailDownloader in log Application...
+Rolling back assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source LisaEmailDownloader.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Creating EventLog source LisaEmailDownloader in log Application...
+Rolling back assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source LisaEmailDownloader.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Creating EventLog source LisaEmailDownloader in log Application...
+Rolling back assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source LisaEmailDownloader.
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Warning: The source LisaEmailDownloader is not registered on the local machine.
+Service LisaEmailDownloader is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Creating EventLog source LisaEmailDownloader in log Application...
+Rolling back assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source LisaEmailDownloader.
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Uninstalling assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Warning: The source LisaEmailDownloader is not registered on the local machine.
+Service LisaEmailDownloader is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = D:\Projects\LISA\Code\LisaEmailDownloader_20thFeb2016\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Creating EventLog source LisaEmailDownloader in log Application...
+Rolling back assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source LisaEmailDownloader.
+Installing assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Creating EventLog source LisaEmailDownloader in log Application...
+Rolling back assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source LisaEmailDownloader.
+Installing assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Creating EventLog source LisaEmailDownloader in log Application...
+Rolling back assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Restoring event log to previous state for source LisaEmailDownloader.
+Installing assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service LisaEmailDownloader...
+Service LisaEmailDownloader has been successfully installed.
+Creating EventLog source LisaEmailDownloader in log Application...
+Committing assembly 'C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\LisaEmailDownloader\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source LisaEmailDownloader.
+Service LisaEmailDownloader is being removed from the system...
+Service LisaEmailDownloader was successfully removed from the system.
+Installing assembly 'C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Installing service EmailDownloadService...
+Service EmailDownloadService has been successfully installed.
+Creating EventLog source EmailDownloadService in log Application...
+Committing assembly 'C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.InstallLog
+   assemblypath = C:\EmailDownloader\EmailDownloadService\bin\Debug\LisaEmailDownloader.exe
+Removing EventLog source EmailDownloadService.
+Service EmailDownloadService is being removed from the system...
+Service EmailDownloadService was successfully removed from the system.
